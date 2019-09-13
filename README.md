@@ -164,6 +164,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Google - Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
 
 ### Showcase
+- [quickhsk.com](http://quickhsk.com/) - Website for HSK (汉语水平考试) preparation and learning Chinese quickly.
 - [readable.report](https://readable.report/) - View all of your stats from all of your apps with a single easy-to-read report.
 - [homefinder.com](https://homefinder.com) - Nation-wide real estate portal in the US.  Find or sell your home on HomeFinder!
 - [www.gamevix.com](https://www.gamevix.com/) - GameVix: Swap Video Game Discs - Spend much LESS 💰, play much MOAR 🎮! (Nuxt.js + Vuetify.js).
